@@ -7,12 +7,12 @@
 
 /******************BEGIN CONSTANTS declarations**************************/
 
-const uint BUTTON_LEFT = 29;               //input LEFT
+const uint BUTTON_LEFT = 2;               //input LEFT
 const uint BUTTON_LEFT_SM_OUTPUT =25;      //used as outputs from PIO sm - debounced button presses
 const uint BUTTON_LEFT_SOCD_PIN = 13;      //output for SOCD cleaned input LEFT
 
 
-const uint BUTTON_RIGHT = 28;              //input RIGHT
+const uint BUTTON_RIGHT = 3;              //input RIGHT
 const uint BUTTON_RIGHT_SM_OUTPUT = 24;    //used as outputs from PIO sm - debounced button presses
 const uint BUTTON_RIGHT_SOCD_PIN = 12;     //output for SOCD cleaned input RIGHT
 
